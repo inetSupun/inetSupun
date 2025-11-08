@@ -52,11 +52,13 @@ const supun = {
 
 <div align="center">
   
-### 📅 Contribution Activity (All-Time)
+### 📅 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inetSupun&theme=react-dark&hide_border=true&area=true&custom_title=All-Time+Contribution+Activity&height=400&color=00f7f7&line=00f7f7&point=00f7f7&range=all)
-
-*Shows all contributions since account creation*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="GitHub Contribution Graph" src="./profile-3d-contrib/profile-green.svg" />
+</picture>
 
 </div>
 
