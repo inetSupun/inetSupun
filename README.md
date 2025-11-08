@@ -52,22 +52,24 @@ const supun = {
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
-  <img alt="GitHub Contribution Graph" src="./profile-3d-contrib/profile-green.svg" />
-</picture>
+### 📅 Contribution Activity (All-Time)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inetSupun&theme=react-dark&hide_border=true&area=true&custom_title=All-Time+Contribution+Activity&height=400&color=00f7f7&line=00f7f7&point=00f7f7&range=all)
+
+*Shows all contributions since account creation*
 
 </div>
 
 <div align="center">
   
-### 📈 Performance Metrics
+### 📈 Performance Metrics (All-Time)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=inetSupun&show_icons=true&theme=react&border_color=00f7f7&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&count_private=true&include_all_commits=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=inetSupun&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
+  <img alt="GitHub Stats - All-Time Total" src="https://github-readme-stats.vercel.app/api?username=inetSupun&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
 </picture>
+
+*Shows lifetime totals since account creation*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=inetSupun&theme=react&border=00f7f7&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7">
